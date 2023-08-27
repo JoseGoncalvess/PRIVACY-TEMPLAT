@@ -1,0 +1,2 @@
+# PRIVACY-TEMPLAT
+template  privacidade.
